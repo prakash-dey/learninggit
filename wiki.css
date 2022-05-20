@@ -1,0 +1,17 @@
+.container2{
+    text-align: center;
+    border: 1px gray;
+    height: 60%;
+    width: 50%;
+}
+.h3{
+    border: 2px grey;
+    height: 10%;
+    width: 50%;
+}
+header{
+    text-align: center;
+    background-color: aquamarine;
+    border: 2px black;
+
+}
