@@ -1,19 +1,37 @@
-.container2{
-    text-align: center;
-    border: 1px gray;
-    height: 60%;
-    width: 50%;
-}
-.h3{
-    border: 2px grey;
-    height: 10%;
-    width: 50%;
+*{
+    text-transform: capitalize;
 }
 header{
     text-align: center;
-    background-color: aquamarine;
-    border: 2px black;
+    background-color: rgb(250, 247, 247);
+    border: 2px solid lightseagreen;
 }
-.container1{
+.container2{
+    height: 60%;
+    width: 48%;
     float: left;
+    border: 2px solid rgb(216, 241, 249);
+    margin: 10px;
 }
+.h{
+    text-align:left ;
+    margin: 8px;
+    background-color:lightblue;
+    border: 2px solid rgb(116, 209, 240);
+}
+.container3{
+    height: 60%;
+    width: 48%;
+    float: right;
+    border: 2px solid rgb(216, 241, 249);
+    margin: 10px;
+}
+.img,.img2{
+    float: left;
+    margin: 10px;
+}
+.img3,.img4{
+    float: right;
+    margin: 10px;
+}
+
