@@ -1,0 +1,25 @@
+*{
+    text-transform: capitalize;
+}
+.container{
+    background-color: darkslategrey;
+    border: 2px solid black;
+    margin: 0;
+}
+.nature{
+    text-decoration:3px  underline black
+    ;
+    text-underline-offset: 5px;
+    text-align: center;
+    color: crimson;
+}
+.img1{
+    width: 45%;
+    float: left;
+    padding: 10px;
+}
+.para1{
+    margin-top: 10px;
+    padding: 10px;
+    text-align: justify;
+}

@@ -1,0 +1,57 @@
+*{
+    text-transform: capitalize;
+}
+/*header*/
+header{
+    color: white;
+    background-color: #c15355;
+}
+.box{
+    display: inline-block;
+}
+.stack{
+    background-color: #c15355;
+    color: white;
+    padding: 50px;
+}
+h3{
+    font-size: 20px;
+    float: left;
+    top: 5px;
+    margin-left:100px;
+    margin-top: 5px;
+}
+p{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+    float: right;
+    font-size: 20px;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+nav{
+    margin-right: 100px;
+}
+.box{
+    display: inline-block;
+}
+.section1{
+    width: 300px;
+}
+.h3,.para1{
+    text-align: justify;
+}
+.section2{
+    width: 300px;
+}
+
+
+
+

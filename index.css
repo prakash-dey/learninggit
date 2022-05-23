@@ -1,0 +1,20 @@
+/* General */
+.container{
+    max-width: 1080px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+header{
+    background-color: coral;
+    padding: 10px;
+    text-decoration: underline black;
+}
+.brand-name{
+    font-size: 48px;
+    font-weight: 700;
+    text-underline-offset: 5px;
+    float: left;
+}
+.nav{
+    float: right;
+}
