@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>flexbox</title>
+    <style>
+        * {
+            padding: 0%;
+            margin: 0%;
+        }
+
+        .container {
+            display: flex;
+            height: 400px;
+            align-items: center;
+            width: 40%;
+            justify-content: center;
+        
+        
+        flex-direction:row;
+    }
+
+        .item1,
+        .item2,
+        .item3 {
+            background-color: aqua;
+            border: 2px solid red;
+        }
+
+        .item1 {
+            flex: 1;
+            order: 1;
+        }
+
+        .item2 {
+            flex: 2;
+            order: 3;
+        }
+
+        .item3 {
+            flex: 1;
+            order: 2;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+    <div class="item1">
+        <h1>card1</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum eveniet possimus reprehenderit quos labore
+            saepe, maxime assumenda odio voluptas perferendis deleniti corrupti est veritatis repellendus molestias
+            vero. Eveniet, facere dolorum.</p>
+    </div>
+    <div class="item2">
+        <h1>card2</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum eveniet possimus reprehenderit quos labore
+            saepe, maxime assumenda odio voluptas perferendis deleniti corrupti est veritatis repellendus molestias
+            vero. Eveniet, facere dolorum.</p>
+    </div>
+    <div class="item3">
+        <h1>card3</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum eveniet possimus reprehenderit quos labore
+            saepe, maxime assumenda odio voluptas perferendis deleniti corrupti est veritatis repellendus molestias
+            vero. Eveniet, facere dolorum.</p>
+    </div>
+    </div>
+</body>
+
+</html>
