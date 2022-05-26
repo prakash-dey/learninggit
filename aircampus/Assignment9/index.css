@@ -1,0 +1,107 @@
+* {
+    text-transform: capitalize;
+}
+
+/*header*/
+header {
+    background-color: rgb(2, 100, 69);
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.p1 {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+nav,
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+/*main*/
+.section1 {
+    background-color: rgb(2, 100, 69);
+    text-align: center;
+    padding: 10px;
+}
+
+h2 {
+    color: white;
+    font-size: 50px;
+}
+
+.section2 {
+    display: flex;
+}
+
+.para4 {
+    color: white;
+}
+
+.para1,
+.para2,
+.para3 {
+    width: 350px;
+    color: black;
+    text-align: justify;
+}
+
+h3 {
+    width: 350px;
+    color: rgb(2, 100, 69);
+}
+
+.div1,
+.div2,
+.div3 {
+    padding: 5px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.section3 {
+    background-color: rgb(2, 100, 69);
+}
+
+h4 {
+    color: white;
+    font-size: 20px;
+    font-size: 25px;
+}
+
+.h4,
+.para4 {
+    text-align: center;
+    margin: 0;
+}
+
+.h5,
+.para5 {
+    color: rgb(2, 100, 69);
+    text-align: center;
+    margin: 0;
+}
+
+.h5 {
+    font-size: 25px;
+}
+
+/*footer*/
+.copyright {
+    color: black;
+}
+
+.icon {
+    background-color: rgb(2, 100, 69);
+    ;
+}

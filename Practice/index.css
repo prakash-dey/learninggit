@@ -1,0 +1,19 @@
+*{
+    text-transform: capitalize;
+}
+/*header*/
+h1{
+    font-size: 20px;
+}
+.div1{
+    margin-top: 50px;
+    text-align: center;
+}
+.div2,.div3{
+    display: flex;
+    margin-left: 80px;
+}
+.img1{
+    width: 30%;
+    padding: 10px;
+}

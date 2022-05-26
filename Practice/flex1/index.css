@@ -1,0 +1,35 @@
+*{
+    text-transform: capitalize;
+}
+h1{
+    color: wheat;
+    font-size: 20px;
+    margin-top: 75px;
+}
+.div1{
+    text-align: center;
+}
+body{
+background-color: rgb(19, 18, 18);
+}
+.headpara{
+    color: grey;
+}
+img{
+    width: 60%;
+}
+.para1{
+    
+    color: gray;
+    text-align: justify;
+}
+.para{
+    background-color: white;
+    width: 60%;
+    padding: 24px;
+}
+.outerdiv{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 100px;
+}

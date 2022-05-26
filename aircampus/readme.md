@@ -1,1 +1,1 @@
-<img src="image.jpeg" alt="project-image">
+<img src="">
