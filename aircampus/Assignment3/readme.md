@@ -1,1 +1,1 @@
-<img src="signup.png" alt="sign_up_form>
+<img src="signup.png" alt="signupform>
