@@ -1,0 +1,43 @@
+*{
+    text-transform: capitalize;
+}
+.container1{
+    display: grid;
+    grid-template-areas:"header header header header" "sidebar main main main" " sidebar footer footer footer"
+    
+}
+
+.header{
+    display: grid;
+    justify-content: center;
+    background-color: rgb(24, 97, 24);
+    color: white;
+    grid-area: header;
+    height:100px;
+    grid-template-columns: auto auto auto;
+    
+} 
+.sidebar{
+    display: grid;
+    justify-content: center;
+    color: white;
+    background-color: blue;
+    grid-area: sidebar;
+    height: 600px;
+}
+.main{
+    display: grid;
+    justify-content: center;
+    color: white;
+    background-color: crimson;
+    grid-area: main;
+    height: 500px;
+}
+.footer{
+    display: grid;
+    justify-content: center;
+    color: white;
+    background-color: yellowgreen;
+    grid-area: footer;
+    height: 100px;
+}
