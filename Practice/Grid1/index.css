@@ -1,0 +1,21 @@
+.container{
+    display: grid;
+    grid-template-columns:auto auto auto;
+    background-color: blueviolet;
+}
+.header{
+    height: 10rem;
+    background-color: red;
+}
+.sidebar{
+    height: 10rem;
+    background-color: green;
+}
+.main{
+    height: 10rem;
+    background-color: brown;
+}
+.footer{
+    height: 10rem;
+    background-color: aqua;
+}
