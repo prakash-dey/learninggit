@@ -1,0 +1,48 @@
+*{
+    text-transform: capitalize;
+}
+body{
+    background-color: black;
+}
+html{
+    background: transparent;
+}
+/*header*/
+
+.center{
+    display: flex;
+    justify-content: space-around;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+i{
+    color: white;
+}
+.left{
+    display: flex;
+    justify-content: center;
+}
+.right{
+    display: flex;
+}
+header{
+    display: flex;
+    position: sticky;
+    top: 0;
+}
+hr{
+    color: rgb(249, 235, 208);
+}
+
+/*main*/
+.main{
+    background-image: url(home-img.jpeg);
+    
+}
