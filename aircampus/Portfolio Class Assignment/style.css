@@ -93,6 +93,9 @@ section {
     align-items: center;
     justify-content: center;
     height: 650px;
+    background-image: url(http://extendthemes.com/demos/mesmerize-pro-portfolio/wp-content/uploads/sites/16/2016/06/cropped-background-2726039-6x4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .intro .right {
@@ -110,7 +113,7 @@ section {
 }
 
 .intro .right p {
-    color: rgb(6, 181, 181);
+    color: lightseagreen;
 }
 
 
