@@ -1,0 +1,19 @@
+.outer-div{
+    width: 300px;
+    height: 250px;
+    background-color: lawngreen;
+    margin: 0 auto;
+}
+.middle-div{
+    width: 100px;
+    height: 100px;
+    background-color: orangered;
+    
+}
+.inner-div{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    border: 5px solid black;
+    
+}
